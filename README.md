@@ -1,8 +1,8 @@
 **Characters**:
 * Strongman *(Mike)*
 * Mime *(Will)*
-* Ring-man (Arjan)
-* Acrobat (Henry)
+* Ring-man *(Arjan)*
+* Acrobat *(Henry)*
 
 * Rich family is bored so wants to open circus to make more money because everyone wants to go to the circus and is a big business
 * They hire us because we are poor and need money
@@ -11,3 +11,8 @@
 
 ### ACT 1 SCENE 1
 
+**Ring-man**: Introducing the amazing analogue circus! *Drops hat, then bends over and picks it up but ripping sound (paper)*
+
+**Ring-man**: Good golly gosh! First up, Mike the Strongman! 
+
+**Strongman**: *flexes muscles even though very thin*
